@@ -12,7 +12,10 @@
 * Criação do arquivo: .gitignore
 * Criação do arquivo: .flaskenv
 * Executando a aplicação: flask run
-
+* Criação de pasta: templates
+* Criação do arquivo: hello.html
+* Instalação da extensão: Thunder Client
+* Criação da pasta: static/images
 
 ## Parte 3
 

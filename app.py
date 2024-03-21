@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, render_template
 
 app = Flask("Ola")
 
@@ -8,5 +8,5 @@ def ola():
 
 @app.route("/alunos")
 def aluno():
-    return "João, Maria, José e Lucas"
+    return render_template("hello.html")
 
